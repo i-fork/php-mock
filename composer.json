@@ -1,0 +1,30 @@
+{
+    "name": "kayw-geek/php-mock",
+    "description": "This library can help you generate English words or sentences to mock data",
+    "keywords": ["english", "mock",
+        "generate text"
+    ],
+    "type": "composer-plugin",
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~8.0"
+    },
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/kayw-geek/english-words/issues"
+    },
+    "authors": [
+        {
+            "name": "weikai",
+            "email": "weikaiii@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "KaywGeek\\": "src"
+        }
+    }
+}
