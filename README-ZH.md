@@ -5,6 +5,8 @@
  </div>
  
 ![GitHub](https://img.shields.io/github/license/kayw-geek/php-mock)![Packagist Downloads](https://img.shields.io/packagist/dm/kayw-geek/php-mock)![GitHub top language](https://img.shields.io/github/languages/top/kayw-geek/php-mock)
+
+[English Document](./REDEME.md)
 #### 简介
 
 > 这个库提供了生成英文单词和句子，它支持自定义词库，支持自定义返回单词\句子长度以及返回类型（字符串、数组、对象、json），它不会因为自定义的大文件词库导致你的内存不够用，轻量级快速帮你生成数据。
